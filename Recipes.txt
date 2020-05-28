@@ -5,6 +5,3 @@ Java language
 Spring framework
 MySQL
 
-JavaScript
-
-Final copy
